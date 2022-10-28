@@ -1,0 +1,12 @@
+.default {
+    border-radius: 10%;
+    background: rgb(221, 221, 221);
+    border: 1px solid gray;
+
+    width: 20px;
+    height: 20px;
+}
+
+.checkboxjs-active.default {
+    background: red;
+}

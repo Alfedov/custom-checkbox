@@ -1,0 +1,10 @@
+@import './sizes.css';
+@import './styles.css';
+@import './custom.css';
+
+.checkboxjs {
+    cursor: pointer;
+
+    width: 20px;
+    height: 20px;
+}
